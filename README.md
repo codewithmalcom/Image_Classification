@@ -23,6 +23,7 @@ How It's Look After Preprocessing
 Now as you can see we have created the pixels folder and cretes .txt file that have image normalized pixels.
 
 **************************
+**************************
 Why 6 Line
 ![image](https://github.com/user-attachments/assets/3feba4f0-2cfb-4e53-bd65-f50a1ce77ccf)
 **************************
