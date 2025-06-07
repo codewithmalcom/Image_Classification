@@ -29,6 +29,8 @@ Why 6 Line
 **************************
 
 As you can you seen the down side of my pixels folder image that are 6 line there means what? when i give path dataset in that two folders have 5 images in each. So my progamme will one poxels in one with heigth * widths  = one_line eg. 64 * 64 = 4096 without ",".
+
+Preprocessing I have already developed separatly This Link 🔗 https://github.com/AlwaysDhruv/Image_Preprocessing
 **************************
 ==============
 Weights Biases
