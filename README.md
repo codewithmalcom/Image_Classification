@@ -356,10 +356,11 @@ Max Pooling 30x30 With Flatten 900
 1.8542 1.4981 1.4282 1.5138 1.4487 1.4198 1.3608 1.3154 1.4524 1.4959 1.3371 1.3298 1.3873 1.3243 1.3908 1.5466 1.5577 1.5454 1.8075 1.9377 1.99 1.6097 1.5107 1.6197 1.7082 1.7296 
 1.7178 1.7086 1.705 1.9431 1.8133 1.5 1.4083 1.4785 1.4244 1.3612 1.3183 1.3244 1.3845 1.3758 1.3332 1.3576 1.384 1.3198 1.3314 1.6842 1.895 1.9365 1.8705 2.1598 1.9369 1.6363 1.5177 
 1.5957 1.7373 1.7436 1.7538 1.759 1.7403 1.9332 1.8242 1.4564 1.3666 1.4207 1.4088 1.3159 1.3538 1.3283 1.3431 1.3634 1.3502 1.3553 1.3624 1.3255
+
 **************************
 **************************
 
-Weights Biases For Fully Connected Layer 🔗 https://github.com/AlwaysDhruv/Image_Classification/blob/main/Model.h
+Weights Biases For Fully Connected Layer 🔗 https://github.com/AlwaysDhruv/Image_Classification/blob/main/Kernal.h
 ==============
 Now The weigths and bias are genrated for fully connected layer means dence layer. Here are the flatten value gonna be predict by using linear algebra. But First we need to weigths and bias values.
 
@@ -381,3 +382,10 @@ Bias 1x2
 
 -0.01 -0
 **************************
+**************************
+
+Fully Connected Layer 🔗 https://github.com/AlwaysDhruv/Image_Classification/blob/main/Model.h
+==============
+
+Neural Network
+![notation_image_1L](https://github.com/user-attachments/assets/eb27e02d-1c7b-4690-b5ed-28b849b8d46e)
