@@ -3,7 +3,6 @@ Architecture
 *************
 ![unnamed](https://github.com/user-attachments/assets/aa178e76-9c54-4416-a374-41d654edec40)
 
-=========
 Preprocessing 
 =========
 First of all preprocessing are programme with two multiple languages but not have connected together C++ and Python. C++ are work for preprocessing to create commad to execute and create pixels forders and in that given dataset have multiple folders for multiple objects so same to same in C++ And Python also C++ create commad with dataset path and python will create pixels folder in current directory and make .txt file of multiple objects in count of limit and stores the normalized pixels in that.
@@ -52,6 +51,6 @@ Here you can see the 2x2 matrix are there and why it's 2x2 or how it's develop? 
 
 **************************
 **************************
-==============
+
 Weights Biases
 ==============
