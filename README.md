@@ -4,7 +4,7 @@ Architecture
 *************
 *************
 
-Preprocessing 
+Preprocessing 🔗 https://github.com/AlwaysDhruv/Image_Classification/blob/main/preprocess.h
 =========
 First of all preprocessing are programme with two multiple languages but not have connected together C++ and Python. C++ are work for preprocessing to create commad to execute and 
 create pixels forders and in that given dataset have multiple folders for multiple objects so same to same in C++ And Python also C++ create commad with dataset path and python will 
@@ -56,7 +56,7 @@ Here you can see the 2x2 matrix are there and why it's 2x2 or how it's develop? 
 **************************
 **************************
 
-Weights Biases
+Weights Biases 🔗 https://github.com/AlwaysDhruv/Image_Classification/blob/main/Kernal.h
 ==============
 Now will talk about weigths and biases whet is this? This one type value are suitable for predict the given input after training and so optimization using gradients decents method.
 
@@ -82,7 +82,7 @@ Source Code
 **************************
 **************************
 
-Convoluationl Operation
+Convoluationl Operation 🔗 https://github.com/AlwaysDhruv/Image_Classification/blob/main/convolutional.h
 ==============
 
 Now the topic are came out Convolluationl are working for extract the features from images using filters.
