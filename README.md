@@ -447,6 +447,7 @@ How Object name are genrated :-
 The Model class of predict mothod will generate index number after prediction using model object.
 
 **************************
+**************************
 
 Gradients Method 🔗 https://github.com/AlwaysDhruv/Image_Classification/blob/main/backpropagation.h
 ==============
@@ -472,3 +473,14 @@ Source Code :-
 ![image](https://github.com/user-attachments/assets/15ad885f-6bb1-40db-9ab3-cbc0c20b91ba)
 
 temp = predicted output, labels(One Hot Values) = real output
+
+**************************
+
+Gradients Source Code :-
+
+![image](https://github.com/user-attachments/assets/41a9d120-bdcb-4e86-843d-f95b723d900e)
+
+Here are four values are will generate for update the convo and fc parameters. Fully Connected Weigths and Bias, Convolution Weigths and Bias.
+
+**************************
+**************************
