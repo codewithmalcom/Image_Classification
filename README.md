@@ -61,7 +61,7 @@ Now will talk about weigths and biases whet is this? This one type value are sui
 **************************
 Convoluational Parameters
 
-![alt text](image-3.png)
+![alt text](image-3-1.png)
 
 Here you can see i have used values member function of Kernal class using kenral objetc. In that methos i have six arguments first convo_weigths for weigths, convo_bias for bias, 5, 5 for filter dimention, 1 for input channel means image are grayscale there are only one layer pixels are there. for eg when it's come to the RGB stands for red, green and blue so in image there three layer of pixels are there. and last 2 means 5x5 filter will genrate 2 menas 5x5x2 = 25,2 = 50 value for weigths. For bias 2 value will genrated why becaue each filter have sum with one bias value so filter.size() == bias.size().
 
