@@ -388,4 +388,5 @@ Fully Connected Layer 🔗 https://github.com/AlwaysDhruv/Image_Classification/b
 ==============
 
 Neural Network
+
 ![notation_image_1L](https://github.com/user-attachments/assets/eb27e02d-1c7b-4690-b5ed-28b849b8d46e)
