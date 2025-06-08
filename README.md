@@ -140,7 +140,7 @@ Style
 For Source Code i have apply single dimention vector for flattening.
 
 **************************
-Here Fully Explanation
+Here Fully Explanation With Example
 
 ![cnn-digit-2](https://github.com/user-attachments/assets/0a70fccd-e69e-4faf-9a92-d7f31c5cdb0c)
 
