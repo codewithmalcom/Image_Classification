@@ -37,7 +37,7 @@ Preprocessing I have already developed separatly This Link 🔗 https://github.c
 
 One Hot Encoding
 
-![image-1](https://github.com/user-attachments/assets/aae855b5-951d-424e-b3e9-e8e270172511)
+![image](https://github.com/user-attachments/assets/cfa1b828-6fb3-4bba-ae5c-56582578fdbb)
 
 **************************
 
@@ -46,7 +46,7 @@ The Given Image i have used member() of preprocess class by using pre objetc. I 
 **************************
 How it's look
 
-![alt text](image-1.png)
+![image-1](https://github.com/user-attachments/assets/aae855b5-951d-424e-b3e9-e8e270172511)
 
 Here you can see the 2x2 matrix are there and why it's 2x2 or how it's develop? When we are preprocessing you have watched the we have give the dataset folder to the model and in that dataset have two folders that defines two objects. so when the first folder will came out for one values with their folder name so programme will give one hot value like [1 0]. why 1 are first because there first folder are came output and when second folder will cam out so one value like that [0 1] and size one value 2 why bacause there are two objects.
 
