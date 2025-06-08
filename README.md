@@ -73,4 +73,76 @@ How It's Look
 Here you can see 5x5 kenal are there 2. bias are 2. In That one image will make it two different value of two image using filter.
 
 **************************
+
+**************************
+Source Code
+
+![alt text](image-7.png)
+
+**************************
+**************************
+
+Convoluationl Operation
+==============
+
+Now the topic are came out Convolluationl are working for extract the features from images using filters.
+
+**************************
+
+1.Convoluation Operation
+
+Formula
+
+![alt text](unnamed.png)
+
+Source Code
+
+![alt text](image-5.png)
+
+flatten the values for fully conneted layer for eg. 64x64 image are their. so filter shape are 5x5x2 for convolution the output shape
+are 64 - 5 + 1 = 60 for column and 64 - 5 + 1 = 60 so convoluation output will generate 60x60x2 there are 2 filter are their that's why.
+
+1.1 Relu activation()
+
+Formula
+
+![alt text](Relu-activation-function.png)
+
+Source Code
+
+![alt text](image-8.png)
+
+Relu Are used for raplace negative value to zero for not will generate infinity.
+
+**************************
+
+2. Max Pooling
+
+Formula
+
+![alt text](MaxpoolSample2.png)
+
+Source Code
+
+![alt text](image-6.png)
+
+after maxpooling 2x2 maxpooling and stride are 2. In that what is the stride? stride are type value that define how many pixels value move 
+after in convoluation output. 60x60x2 when we apply 2x2 max pooling and stride = 2 so output will generate 30x30x2.
+
+**************************
+
+3. Flatten
+
+Style
+
+![alt text](73_blog_image_1.png)
+
+For Source Code i have apply single dimention vector for flattening.
+
+**************************
+Here Fully Explanation
+
+[alt text](cnn-digit-2.jpg)
+
+**************************
 **************************
