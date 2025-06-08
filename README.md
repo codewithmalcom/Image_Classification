@@ -37,7 +37,8 @@ Preprocessing I have already developed separatly This Link 🔗 https://github.c
 
 One Hot Encoding
 
-![alt text](image.png)
+![image-1](https://github.com/user-attachments/assets/aae855b5-951d-424e-b3e9-e8e270172511)
+
 **************************
 
 The Given Image i have used member() of preprocess class by using pre objetc. I have give Two arguments first labels that in stores the one hot values in double dimentional vector. Labels are type of true output that are used optimiza loss and make the suitbale weigths and biases value to predict the output using gradients and decents method.
