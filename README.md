@@ -391,3 +391,43 @@ Neural Network
 
 ![sddefault](https://github.com/user-attachments/assets/d7ce0b56-3e84-48eb-80c7-2f64406b4674)
 
+The Neural network are insipiration from our brain that have also nn. So the we watch any perticular objetc how we can say that its laptop, its TV, etc how it's possible? the brain are recogniza that object using that characteristic their colour their shape or everything we can noticed it in that object. That why CNNs are used Neural Network to recongnize any objects.
+
+Formula
+
+![download](https://github.com/user-attachments/assets/799cb368-3bd7-46a6-bcdf-706c29521500)
+
+Where The,
+Xi are Flatten values,
+Wi are weigths,
+b are bias
+
+Source Code
+
+![image](https://github.com/user-attachments/assets/46e4067e-fc7d-4f2f-a5a0-e54329d157b0)
+
+How its look
+
+![image](https://github.com/user-attachments/assets/2a53e56d-81bc-4119-9dc6-426bd2f3f508)
+
+In dataset have 2 folder in every foldeer have 5 image so you see in image there are 10 prediction are there
+
+**************************
+
+Softmax
+
+Formula
+
+![582a6c51701bb584c1cdd6662cc376b9cadb7160-2048x1152](https://github.com/user-attachments/assets/679b92f1-34ad-4f5d-9d96-f79cd9f33fa6)
+
+Graph
+
+![Graphic-representation-of-the-softmax-activation-function](https://github.com/user-attachments/assets/dda3fa1f-534b-4d9b-8d0b-696dd487cdc5)
+
+Softmax function are typically type of activation function so predict the given input.
+
+Source Code
+
+![image](https://github.com/user-attachments/assets/34fe50f8-42ae-42a3-954a-28ec5221a8a4)
+
+**************************
