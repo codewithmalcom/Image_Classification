@@ -77,7 +77,7 @@ Here you can see 5x5 kenal are there 2. bias are 2. In That one image will make 
 **************************
 Source Code
 
-![alt text](image-7.png)
+![image-7](https://github.com/user-attachments/assets/9ca3753f-2d85-4935-b0f5-3eb40f8458e8)
 
 **************************
 **************************
@@ -93,11 +93,11 @@ Now the topic are came out Convolluationl are working for extract the features f
 
 Formula
 
-![alt text](unnamed.png)
+![unnamed](https://github.com/user-attachments/assets/b93b4251-25ab-4c54-aa84-81a7f5cede11)
 
 Source Code
 
-![alt text](image-5.png)
+![image-5](https://github.com/user-attachments/assets/3de19d65-f1b9-47f5-9c61-e5dcbc4081ae)
 
 flatten the values for fully conneted layer for eg. 64x64 image are their. so filter shape are 5x5x2 for convolution the output shape
 are 64 - 5 + 1 = 60 for column and 64 - 5 + 1 = 60 so convoluation output will generate 60x60x2 there are 2 filter are their that's why.
@@ -106,11 +106,11 @@ are 64 - 5 + 1 = 60 for column and 64 - 5 + 1 = 60 so convoluation output will g
 
 Formula
 
-![alt text](Relu-activation-function.png)
+![Relu-activation-function](https://github.com/user-attachments/assets/4c1ada4c-f7c8-49e3-97cb-b988b78021ec)
 
 Source Code
 
-![alt text](image-8.png)
+![image-8](https://github.com/user-attachments/assets/0c6689b8-2674-4eb6-81f7-e399f71192b0)
 
 Relu Are used for raplace negative value to zero for not will generate infinity.
 
@@ -120,11 +120,11 @@ Relu Are used for raplace negative value to zero for not will generate infinity.
 
 Formula
 
-![alt text](MaxpoolSample2.png)
+![MaxpoolSample2](https://github.com/user-attachments/assets/49755136-ea90-420d-88c4-c33d39d36d21)
 
 Source Code
 
-![alt text](image-6.png)
+![image-6](https://github.com/user-attachments/assets/263a9b7c-ece0-4eb2-9e9a-5c08b02e3aef)
 
 after maxpooling 2x2 maxpooling and stride are 2. In that what is the stride? stride are type value that define how many pixels value move 
 after in convoluation output. 60x60x2 when we apply 2x2 max pooling and stride = 2 so output will generate 30x30x2.
@@ -135,14 +135,14 @@ after in convoluation output. 60x60x2 when we apply 2x2 max pooling and stride =
 
 Style
 
-![alt text](73_blog_image_1.png)
+![73_blog_image_1](https://github.com/user-attachments/assets/de665b14-9341-4bcf-848c-95da23a0b03d)
 
 For Source Code i have apply single dimention vector for flattening.
 
 **************************
 Here Fully Explanation
 
-[alt text](cnn-digit-2.jpg)
+![cnn-digit-2](https://github.com/user-attachments/assets/0a70fccd-e69e-4faf-9a92-d7f31c5cdb0c)
 
 **************************
 **************************
