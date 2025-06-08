@@ -146,3 +146,6 @@ Here Fully Explanation
 
 **************************
 **************************
+
+Fullt Connected Layer 🔗 https://github.com/AlwaysDhruv/Image_Classification/blob/main/Model.h
+==============
