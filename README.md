@@ -433,3 +433,20 @@ Source Code
 ![image](https://github.com/user-attachments/assets/34fe50f8-42ae-42a3-954a-28ec5221a8a4)
 
 **************************
+
+Gradients Method 🔗 https://github.com/AlwaysDhruv/Image_Classification/blob/main/backpropagation.h
+==============
+
+Formula
+
+![conv_bias_eq](https://github.com/user-attachments/assets/3b39c6ab-5175-4b6f-8606-859ae323caf4)
+
+Gradients are typically work for calculate one type value that can update weights and bias to make the suitable for prediction.
+
+**************************
+
+Error Function 
+
+For Calclating gradient we need to loss for it.
+
+![iSWyZ](https://github.com/user-attachments/assets/b7ce624f-d39f-46b7-add9-6301041ddce9)
