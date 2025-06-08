@@ -29,6 +29,26 @@ Why 6 Line
 **************************
 
 As you can you seen the down side of my pixels folder image that are 6 line there means what? when i give path dataset in that two folders have 5 images in each. So my progamme will one poxels in one with heigth * widths  = one_line eg. 64 * 64 = 4096 without ",".
+
+Preprocessing I have already developed separatly This Link 🔗 https://github.com/AlwaysDhruv/Image_Preprocessing
+**************************
+**************************
+One Hot Encoding
+![alt text](image.png)
+**************************
+
+The Given Image i have used member() of preprocess class by using pre objetc. I have give Two arguments first labels that in stores the one hot values in double dimentional vector. Labels are type of true output that are used optimiza loss and make the suitbale weigths and biases value to predict the output using gradients and decents method.
+
+**************************
+How it's look
+![alt text](image-1.png)
+
+Here you can see the 2x2 matrix are there and why it's 2x2 or how it's develop? When we are preprocessing you have watched the we have give the dataset folder to the model and in that dataset have two folders that defines two objects. so when the first folder will came out for one values with their folder name so programme will give one hot value like [1 0]. why 1 are first because there first folder are came output and when second folder will cam out so one value like that [0 1] and size one value 2 why bacause there are two objects.
+
+[1 0] folder1
+[0 1] folder2
+
+**************************
 **************************
 ==============
 Weights Biases
