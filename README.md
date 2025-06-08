@@ -388,6 +388,7 @@ Fully Connected Layer 🔗 https://github.com/AlwaysDhruv/Image_Classification/b
 ==============
 
 Neural Network
+**************************
 
 ![sddefault](https://github.com/user-attachments/assets/d7ce0b56-3e84-48eb-80c7-2f64406b4674)
 
@@ -415,6 +416,7 @@ In dataset have 2 folder in every foldeer have 5 image so you see in image there
 **************************
 
 Softmax
+**************************
 
 Formula
 
