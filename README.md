@@ -1,6 +1,6 @@
 Architecture
 =========
-![unnamed](https://github.com/user-attachments/assets/aa178e76-9c54-4416-a374-41d654edec40)
+![1_7_BCJFzekmPXmJQVRdDgwg](https://github.com/user-attachments/assets/f9ac7351-7472-4ea7-89ae-ab69868457a7)
 *************
 *************
 
@@ -484,3 +484,19 @@ Here are four values are will generate for update the convo and fc parameters. F
 
 **************************
 **************************
+
+Update The Weigths and Bias 🔗 https://github.com/AlwaysDhruv/Image_Classification/blob/main/update.h
+==============
+
+Formula :-
+
+![image](https://github.com/user-attachments/assets/7e6e8e2a-9822-4d96-b131-67cdf5282848)
+
+Source Code :-
+
+![image](https://github.com/user-attachments/assets/7523b791-9e23-4028-8744-ca9bd13a07be)
+
+**************************
+**************************
+So it's Process are repeated when loss will optimized in give n range of training.
+==============
