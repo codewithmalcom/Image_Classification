@@ -1,6 +1,5 @@
-*************
 Architecture
-*************
+=========
 ![unnamed](https://github.com/user-attachments/assets/aa178e76-9c54-4416-a374-41d654edec40)
 *************
 *************
@@ -19,14 +18,14 @@ Selecting Dataset
 After Press Ok The Programme Will show the message that created the folder.
 
 **************************
-**************************
+
 How It's Look After Preprocessing
 ![Screenshot 2025-06-08 022604](https://github.com/user-attachments/assets/f8476abd-d34e-4c87-9b26-ebc3e6cd7c11)
 **************************
 Now as you can see we have created the pixels folder and cretes .txt file that have image normalized pixels.
 
 **************************
-**************************
+
 Why 6 Line
 ![image](https://github.com/user-attachments/assets/3feba4f0-2cfb-4e53-bd65-f50a1ce77ccf)
 **************************
@@ -35,7 +34,7 @@ As you can you seen the down side of my pixels folder image that are 6 line ther
 
 Preprocessing I have already developed separatly This Link 🔗 https://github.com/AlwaysDhruv/Image_Preprocessing
 **************************
-**************************
+
 One Hot Encoding
 
 ![alt text](image.png)
