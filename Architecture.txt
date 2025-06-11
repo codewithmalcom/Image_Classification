@@ -1,0 +1,13 @@
+[ Dataset ]
+     ↓
+[ Preprocessing ]
+     ↓
+[ Weights & Biases (Kernels, FC) ]
+     ↓
+[ Convolutional Operation (Kernels)]
+     ↓
+[ Fully Connected (fc)]
+    ↓  ↑
+[ Backpropagation]
+     ↓
+[ Prediction ]
